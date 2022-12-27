@@ -24,7 +24,7 @@ h3 {
   font-size: 20px;
 }
 
-p {
+p, ul {
   color: white;
   text-align: center;
   font-size: 18px;
