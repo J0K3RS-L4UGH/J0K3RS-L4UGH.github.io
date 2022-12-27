@@ -24,9 +24,15 @@ h3 {
   font-size: 20px;
 }
 
-p, ul, li {
+p {
   color: white;
   text-align: center;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, li {
+  color: white;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
 }
